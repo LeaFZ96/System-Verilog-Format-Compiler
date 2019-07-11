@@ -4,3 +4,11 @@ grammar/*.class
 grammar/*.java
 grammar/*.interp
 grammar/*.tokens
+svgrammar/.antlr
+svgrammar/*.class
+svgrammar/*.java
+svgrammar/*.interp
+svgrammar/*.tokens
+
+!svgrammar/SVProcess.java
+!grammar/Process.java
