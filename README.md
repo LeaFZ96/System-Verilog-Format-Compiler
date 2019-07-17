@@ -34,9 +34,9 @@ A code format tool for the System Verilog source code (`*.sv` )
 
 ## Dependency
 
-- Java(TM) SE Runtime Environment 18.3
-- ANTLR 4.7.1
-- Icarus Verilog version 10.2
+- Java(TM) SE Runtime Environment >= 18.3
+- ANTLR >= 4.7.1
+- Icarus Verilog version >= 10.2
 
 ### .zshrc / .bashrc
 
