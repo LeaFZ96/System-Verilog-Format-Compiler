@@ -206,20 +206,6 @@ class SVProcess {
         walker.walk(printer, tree);
 
         int loopTotal = printer.lvalSet.size();
-        //System.out.println(printer.posList);
-        /*
-        System.out.println(printer.posList);
-        System.out.println(printer.lvalSet);
-        System.out.println(printer.rvalMap);
-        System.out.println(printer.lvalLineMap);
-        System.out.println(printer.portSet);
-
-         */
-
-
-        // System.out.println(printer.declLineMap);
-        loopTotal = 0;
-
 
         for (int i = 0; i < loopTotal; i++) {
 
