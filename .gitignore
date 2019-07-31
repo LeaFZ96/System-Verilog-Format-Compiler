@@ -9,6 +9,7 @@ svgrammar/*.class
 svgrammar/*.java
 svgrammar/*.interp
 svgrammar/*.tokens
+output/
 
 !svgrammar/SVProcess.java
 !grammar/Process.java
